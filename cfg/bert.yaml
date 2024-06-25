@@ -1,0 +1,11 @@
+save_path: ./save
+
+model: bert
+
+early_stop: True
+
+n_epochs: 5
+learning_rate: 5e-4
+batch_size: 8
+random_seed: 42
+# Path: cfg/cfg.yaml
